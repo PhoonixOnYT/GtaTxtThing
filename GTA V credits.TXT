@@ -1,0 +1,501 @@
+Rockstar North
+Producer & Game Designer	Leslie Benzies
+Art Director	Aaron Garbut
+Technical Director	Adam Fowler
+Written By	Dan Houser & Rupert Humphries
+Co-Producer & Game Designer	Imran Sarwar
+Studio Director	Andrew Semple
+Associate Art Directors	Adam Cochrane
+Michael Kane
+Associate Technical Directors	Klaas Schilstra
+Phil Hooker
+2D/UI Director	Stuart Petri
+Music Director	Craig Conner
+Audio Director	Matthew Smith
+Global Lead Technical Artist	Rick Stirling
+Tools Director	Greg Smith
+Assistant Art Director	Ian McQue
+UK I.T. Director	Lorraine Stark
+Assistant Producer	William Mills
+Lead Scripters	Benjamin Rollinson
+Kenneth Ross
+Matthew Booton
+Robert Bray
+Ross Wallace
+Senior Scripter	Craig Filshie
+Senior Cellphone Scripter	Steve Taylor
+Scripters	Adam Westwood
+Alan Litobarski
+Alwyn Roberts
+Andrew Knight
+Ben Barclay
+Craig Vincent
+Kevin Bolt
+Lawrence Kerr
+Lukasz Bogaj
+Michael Wadelin
+Paul Davies
+Tor Sigurdson
+John Haime
+Principal Lead Environment Artist	Wayland Standing
+Lead Environment Artist	Michael Pirso
+Principal Artists	David Cooper
+Iain McNaughton
+Principal Lighting Artist	Owen Shepherd
+Outsource Manager	Scott Wilson
+Art Production Manager	Adam Smith
+Senior Map Artists	Alastair McLauchlan
+Ian Hall
+James Allan
+Ming Kei Cheung
+Neil Sylvester
+Simon Little
+Tim Flowers
+Tim Gilbert
+Map Artists	Andrew Liddle
+Boz Briers
+Chris Marshall
+Christian Simcock
+Daniel Hanwell
+David O'Reilly
+Eros Tang
+Gavin Stewart Greaves
+Gary McAdam
+Liam Morrey
+Marco Hallett
+Mark Lack
+Mark Wright
+Martin Good
+Martyn Wilson
+Oliver Gainford
+Quyen Lam
+Rafael Barraso
+Raul Ovejero
+Ray Liam Shum
+Robert Kneen
+Rory Bryan
+Steve Crook
+Steven Mulholland
+Junior Artist	Ben Jackson
+Map Support	Adam Spriggs
+Carl Edwards
+Dayle Hodgson
+Laurens Seynaeve
+Nidhin Thomas
+Niels Biliet
+Paul O'Donovan
+Richard Scammell
+Rob Parker
+Thomas Wicks
+Tim Fionda
+Tom Laird
+Vincent Callebaut
+Wesley Mackinder
+Map QA	David Alden
+Matthew Higgins
+Senior Interior Artists	Garry Mackenzie
+Andy Hay
+Tze Lim
+Interior Artists	Alexander Pons Carden-Jones
+Karyn McHale
+Matt Harrad
+Stuart Scott
+Prop Artists	Brendon McDonald
+Campbell John Dick
+Craig Kerr
+Eoin Callan
+Waseem Punnu
+Lead Graphics Programmer	Alex Hadjadj
+Senior Graphics Programmers	Andrzej Madajczyk
+Bernie Freidin
+Luis Alvarado
+Piotr Dubla
+Senior Visual Effects Programmer	Mark Nicholson
+Lead AI Programmer	Chris Swinhoe
+Senior AI Programmers	Chi-Wai Chiu
+David Hynd
+James Broad
+AI Programmer	Robert Träffe
+Lead Systems Programmer	John Whyte
+Senior Systems Programmer	Ian Kiigan
+Systems Programmers	David Ely
+Flavius Alecu
+Graeme Williamson
+Lead Animation Programmer	Jonathon Ashcroft
+Animation Programmers	Graeme Sales
+James Bulman
+Martin Bunker
+Thomas French
+Lead Online Programmer	Daniel Yelland
+Senior Online Programmers	John Gurney
+John Hynd
+Online Programmer	Miguel Freitas
+Lead Physics Programmer	Ben Lyons
+Physics Programmer	Richard Archibald
+Lead Camera Programmer	Colin Entwistle
+UI Programmer	Derek Payne
+Development Support	Andrew Bailey-Smith
+Iain Downie
+Internal Code QA	Gordon McKenzie
+Scott MacAulay
+Lead Tools Programmers	David Muir
+Luke Openshaw
+Senior Tools Programmers	Derek Ward
+Jonny Rivers
+Tools Programmers	Adam Munson
+Dave Evans
+Gunnar Droege
+Michael Kontogiannis
+Michael Täschler
+Mike Wilson
+Lead Information Systems Programmer	Marc Guerin
+Information Systems Programmers	Andrew Stewart
+Duncan Gauld
+Umang Pethapuria
+Tools Build/QA	Rick Thomas
+Peter Watson
+Maurice Young
+Lead Social Club Developer	Ian McFarland
+Social Club Developers	Pete Andrews
+Amanda Anderson-Crane
+Bryan McDowall
+Marcin Bot
+Simon Elliott
+Character Artists	Alan Nolan
+Ben Clark
+Chris Brincat
+Jamie-Lee Lloyd
+Stuart Hansell
+Toks Solarin
+Senior Character Rigging & Technical Art	Erik Brear
+Character Rigging	Matt Rennie
+Stewart Wright
+Nicolas Malovec
+Technical Art	David Bailey
+Kathryn Bodey
+Neil Gregory
+Character Development Assistant	Roz Galloway
+Lead Cutscene Animation	Dermot Bailie
+Felipe Busquets
+Cutscene Animation	Alex Cartwright
+Geoffrey Fermin
+Jenny Arnold
+Kristian Petersson
+Marcos Duran
+Matt Rochester
+Michael Mangus
+Facial Animation	Santiago Hurtado
+Cutscene Animation co-ordination	Francesca Howard
+Animation Resource	Mags Donaldson
+Darren Iddon
+Sheraz Afzal
+Lead In-game Animation	Jim Jagger
+Senior In-game Animation	Andy Davies
+Mike Jones
+In-game Animation	Alex O'Dwyer
+Ben Rackham
+Daniel Lim
+Darren Froggatt
+Gus Braid
+Malcolm Angus
+Sheng Li
+Animation Support	Simon Churchill
+Lee Sparkes
+Phil Beveridge
+Lead Vehicle Artist	Jolyon Orme
+Vehicle Artists	Laurence Knight
+Michael Bush
+Richard Kansley
+VFX Artist	Nic Chambers
+Junior VFX Artist	Philip Ho
+Lead Graphic Designer	Steve Walsh
+Senior Graphic Designer	Euan Duncan
+Graphic Designers	Alisdair Wood
+Jill Menzies
+Senior UI Developer	Gareth Evans
+UI Developer	Jeffrey Khan
+UI Designer	Sam Grosset
+New Media Designer	Scott Thomson
+Development Assistant	Roberta Gatti
+Grand Theft Auto Online Designer & Director	Leslie Benzies
+Grand Theft Auto Online Producer	Andy Duthie
+Grand Theft Auto Online Script Leads	Robert Wright
+Keith McLeman
+Brenda Carey
+Neil Ferguson
+Grand Theft Auto Online Scripters	Ryan Baker
+Conor McGuire
+James Adwick
+Rowan Cockcroft
+David Watson
+William Kennedy
+David Gentles
+Kevin Wong
+Christopher Speirs
+Chris McMahon
+Grand Theft Auto Online Content Creation	Callum Mungall
+Chris McCallum
+Jesse Holcroft
+Joe Stafford
+Joshua Mattyasovszky
+Katie Pica
+Martin Logan
+Ross Parker
+Sean Casey
+Multiplayer Developer Support	Katie Pica
+Production Associates	Chris McCallum
+John Sloan
+Martin Logan
+Production Assistant	Daisy Richardson
+Production Support	Dan Fletcher
+Development Assistants - Design	Andrew Scotland
+Bridget Steed
+Jamie Trimmer
+Mark Beagan
+Scott Butchard
+Tarek Hamad
+Thomas Belotti
+Development Assistant - Dialogue	Gemma O’Hagan
+Ambient World Lead	John Sloan
+Population Management	Stefan Webster
+Chris McCallum
+Games Analysts	Daniel Morrow
+Euan Law
+Fionn Wright
+Jesse Holcroft
+Joshua Mattyasovszky
+Stefan Webster
+Derek Patterson
+Grand Theft Auto Online QA Supervisor	Adam Whiting
+Grand Theft Auto Online QA	Michael Burton
+Ross Parker
+Sean Casey
+Andrew Auckland
+Callum Mungall
+Graham Rust
+Jennifer Cox
+Joe Stafford
+John Lang
+Matt Aubrey
+Paulius Bernotas
+Robert Allan
+Robin Ward
+Scott Edwards
+Simon Miele
+Stuart White
+Tom Cressey
+Vasiko Manjgaladze
+Lead Audio Programmer	Alastair MacGregor
+Audio Programmers	Colin Walder
+Hugh Lowry
+Jorge O’Valle
+Audio Tools Programmer	Matt Hailey
+Dialogue Supervisor	Will Morton
+Sound Designers	George Williamson
+Jon McCavish
+Dialogue Design Assistant	Lindsay Robertson
+Interactive Music Developers	Rebecca Johnson
+Fraser Morgan
+Audio Development Support	Keith Thorburn
+Nick Gozem
+QA Manager	Craig Arbuthnott
+Senior Lead Analysts	Brian Kelly
+Neil Corbett
+Lead Test Analysts	Chris Thomson
+John Archibald
+Steev Douglas
+Test Analysts	Paul Kowal
+Colin Howard
+Test Tool Support	Thomas Philips
+Lead Build Engineer	Neil Walker
+Build Engineer	Ross McKinstray
+Test	Ailbhe Kirwan
+Alex Gray
+Alex Hills
+Alice Ross
+Alistair Hathaway
+Andy Butler
+Anna Holt
+Chris Damon
+Chris Dickson
+Christopher Kerr
+Christopher Vyse
+Craig McManus
+Craig Walker
+Daniel Pryde
+Daniella Zelli
+David Hodgson
+David Jones
+Debra Bodey
+Drew Theasby
+Ed Tonks
+Euan Black
+Eve Acton
+Fionn Wright
+Gemma McCord
+Grace Paige
+Graeme Hutton
+Graeme Wright
+Jack Charlton
+Joe Hill
+John Corbett
+John Hendry
+Jonathan Foot
+Jordan Combe
+Joseph Woods
+Karen Mitchell
+Kate Kidd
+Lauren McNaughton
+Lyle Connon
+Mark Moody
+Matt Wilson
+Owen Evans
+Peter McAlister
+Robbie Douglas
+Robert Moore
+Roland LeGood
+Ross Thomson
+Ross Wilkie
+Sara Forbes
+Sarah Crawford
+Scott Buchanan
+Shanti Easton
+Shauni Maple
+Sinclair Bain
+Stephen Donkin
+Steven McClue
+Suzanne Raine
+Zach Reilly
+Administration Supervisor	Michelle McKnight
+Admin Support	Laura Waddell
+Nadia Taib
+Accounts Administrator	Anneline Groves
+HR Advisor	Becky Scott
+Housekeeping	Elizabeth Douglas
+I.T. Support	Christine Chalmers
+Paul Sharkey
+Rory Jepson
+I.T. Systems Engineers	Adam Bown
+David Campbell
+Gavin Will
+Special Thanks	Alessandro Piva
+Alyn McCall
+Anita Norfolk
+Charlotte Addison
+Cherry Martin
+Christina Harvey
+Darren Hatton
+David Buan
+Erin Bower
+Jay Adams
+Kim Gurney
+Lisa Stapleton
+Malcolm Shortt
+Marie Borgesson
+Matthew Ryan
+Michael Flocco
+Michelle Obayda
+Mondo Ghulam
+Peter Kasim
+Spencer Jones
+Stuart Macdonald
+Tan Suttie
+Young Suk Ko
+Play Test	Aarjith Babu
+Adam Hopkins
+Alan Bailey
+Alasdair Bayne
+Alex Fionda
+Alexander Brown
+Alexander Dowsett
+Alexander McAndrew
+Andrew Cairns
+Andrew O’Connor
+Antony Rinaldi
+Ben Barrett
+Bilal Ashraf
+Bradlay Law
+Calum Beck
+Cameron Scott
+Charles Finlayson
+Chris Halkett
+Christian Yiannopoullos
+Christopher Glenholmes
+Christopher Marshall
+Christopher McKnight
+Claire Archibald
+Colin McCafferty
+Craig Ramsay
+Dale Robertson
+Damien Cabrol
+David Hopkins
+David Paul
+Ewan Mackie
+Fern Mason
+Frederick Pickering
+Gareth Roberts
+Gillal Ali
+Graeme Sudworth
+Gregor Fergusson
+Hakim Gharrafi
+Harish Anbezhil
+Heather Shields
+Hector Cassels
+Iain MacLellan
+Iain Martin
+Iain Paterson
+Imran Pervez
+Jamie Brown
+Jan Lawicki
+John McKay
+Johnny Jaap
+Johnny Quinn
+Jonathan Rankin
+Jonathan Sullivan
+Joshua Lowe
+Karl Siddall
+Keiron Douglas
+Lee Dobbie
+Lewis Boyden
+Liam Richardson
+Luke Blackwood
+Lynette Ross
+Martin Polok
+Michael Black
+Michael Cromarty
+Michael Douglas
+Michael Gorman
+Michael Shaw
+Neal William Ford
+Owen Brignall
+Owen Maddocks
+Patrick Gårdinger
+Patrick Hudson
+Paul Duddy
+Peter Spriggs
+Qasim Ashraf
+Ray Kit Shum
+Richard Bryson
+Richard Little
+Robert Chimes
+Robert James Law
+Robert Laidlaw
+Ross Carmichael
+Ross Catto
+Russell Moore
+Samuel Taylor
+Scott McCafferty
+Shane Horgan
+Simon Collier
+Stephen Cairns
+Stephen Nield
+Steven Shand
+Stewart Allan
+Stewart J Allan
+Tina Douglas
+Tom Emerson
+Tom Ivinson
+Tom Kemp
+Vikramaditya Venkata
+William Belotti
+Zaid Hussain
